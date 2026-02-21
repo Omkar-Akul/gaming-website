@@ -6,4 +6,4 @@ i made it using</br>
   <li>css</li>
   <li>javascript</li>
 </ol><br>
-it is the launch dashboard for gaming webpage
+
